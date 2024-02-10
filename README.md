@@ -23,3 +23,19 @@ To run the website locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/bassiouny2/omnifood.git
+## Contributing
+#####If you're interested in contributing to Omnifood:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and ensure they are well-tested.
+- Create a pull request with a clear description of your changes.
+
+## License
+-------
+
+This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
+
+Feel free to explore the code, suggest improvements, or use it as a reference for your own projects. If you have any questions or feedback, please don't hesitate to contact us.
+
+Bon appétit!
